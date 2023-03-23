@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class MyPortConfig(AppConfig):
+class CourseappConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'my_port'
+    name = 'courseapp'
