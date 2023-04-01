@@ -1,0 +1,1 @@
+This project is a django tutorial project sponsored by coursera.
